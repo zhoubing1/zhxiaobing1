@@ -10,7 +10,7 @@ public class TestDay {
     @Test
 
     public void testSynHello(){
-        System.out.println("Hello!World");
-        
+        System.out.println("大太阳的！!World");
+
     }
 }
